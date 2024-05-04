@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.wallitapp"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "com.example.wallitapp"

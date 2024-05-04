@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "WallItApp"
 include(":app")
+include(":app")
  
